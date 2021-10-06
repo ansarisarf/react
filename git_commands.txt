@@ -1,0 +1,41 @@
+
+git config --global user.email "you@example.com" 
+git config --global user.name "Your Name"
+git init
+git status
+git init
+touch index.html
+git status
+git add folder/that/contains/files
+git init -q
+touch index.html
+git add . 
+git status
+git commmit -m "a message to commit with"
+git commmit -m "fixing the bug number 209"
+git init -q
+touch index.html
+git add .
+git commit -m "Our first commit!"
+git log
+
+
+git config --global user.email "you@example.com" 
+git config --global user.name "Your Name"
+git init
+git status
+git init
+touch index.html
+git status
+git add folder/that/contains/files
+git init -q
+touch index.html
+git add . 
+git status
+git commmit -m "a message to commit with"
+git commmit -m "fixing the bug number 209"
+git init -q
+touch index.html
+git add .
+git commit -m "Our first commit!"
+git log
